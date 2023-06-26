@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-#---GPS Puck Data Acquisition - creted by Kshama Dhaduti -
+
+#---GPS Puck Data Acquisition- EECE 5554_Assignment 1---
+#---Created by Kshama Dhaduti---
 
 import rospy
 import serial
